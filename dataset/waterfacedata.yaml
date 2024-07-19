@@ -1,4 +1,4 @@
-path: C:\Users\lws68\PycharmProjects\slim-neck-by-gsconv\ultralytics-main\dataset\yolodata # dataset root dir
+path: \dataset\yolodata # dataset root dir
 train: image/train  # train images (relative to 'path')
 val: image/val  # val images (relative to 'path')
 test: image/test  # test images (optional)
